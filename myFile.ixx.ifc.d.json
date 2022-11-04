@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\klaud\\source\\repos\\airportsfml\\myfile.ixx",
+        "ProvidedModule": "myFile",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.31.31103\\include\\string",
+                "BMI": "C:\\Users\\klaud\\source\\repos\\airportSFML\\x64\\Release\\string_8TEYAKQDT4EPFR4W.ifc"
+            }
+        ]
+    }
+}

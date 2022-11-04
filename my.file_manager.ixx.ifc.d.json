@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\klaud\\source\\repos\\airportsfml\\my.file_manager.ixx",
+        "ProvidedModule": "my",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.31.31103\\include\\fstream",
+                "BMI": "C:\\Users\\klaud\\source\\repos\\airportSFML\\x64\\Release\\fstream_8VXLPJKYHRJFLMR4.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.31.31103\\include\\filesystem",
+                "BMI": "C:\\Users\\klaud\\source\\repos\\airportSFML\\x64\\Release\\filesystem_ULPF3VTKXHP84PZE.ifc"
+            }
+        ]
+    }
+}
