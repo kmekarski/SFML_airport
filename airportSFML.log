@@ -1,0 +1,6 @@
+﻿  Trwa skanowanie źródeł pod kątem zależności modułów...
+  Trwa generowanie kodu
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 1548 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  airportSFML.vcxproj -> C:\Users\klaud\source\repos\airportSFML\x64\Release\airportSFML.exe
